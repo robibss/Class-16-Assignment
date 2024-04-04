@@ -1,0 +1,102 @@
+
+.header{
+    background-color: #101446;
+    padding: 10px 0px;
+}
+
+.header img{
+    width: 80px;
+    height: auto;
+}
+
+.header ul{
+text-align: right;
+margin-bottom: 0px;
+}
+.header ul li{
+display: inline-block;
+}
+.header ul li a{
+display: block;
+color: #fff;
+text-decoration: none;
+padding: 0px 30px;
+line-height: 50px;
+font-size: 20px;
+margin: 0;
+}
+
+.header ul li a:hover{
+color: #FF6363;
+}
+
+.banner{
+    background-image: url(./intro-bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 200px 0px;
+}
+
+.banner-text{
+    color: #fff;
+}
+
+button{
+background-color: #337AB7;
+padding: 5px 15px;
+border: 1px solid #337AB7;
+border-radius: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: #FFf;
+} 
+
+.team-member{
+    padding: 60px;
+    background-color: #BAC1F3;
+}
+.team-member h1 {
+    padding-bottom: 60px;
+}
+.team-member p {
+    width: 50%;
+    margin: auto;
+}
+
+.about{
+    background-color: #C2D4EA;
+    padding: 80px 0px;
+}
+.col-6 {
+    text-align: left;
+    padding: 40px;
+}
+
+/* Contact us CSS */
+
+
+input {
+    padding: 10px 306px 10px 5px;
+    margin: 10px 0;
+}
+
+.button{
+    background-color:#5BC0DE;
+    padding: 8px 15px;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+}
+.footer{
+    background-color: #4689F2;
+    padding: 20px 0px;
+    
+    
+}
+.footer  p{
+    color: #fff;
+    margin: 0;
+}
